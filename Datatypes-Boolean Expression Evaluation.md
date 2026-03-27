@@ -26,6 +26,7 @@ print("c:", c)
 print("d:", d)
 
 
+
 ## Output
 <img width="456" height="225" alt="Screenshot 2026-03-27 174248" src="https://github.com/user-attachments/assets/58350ec8-5e7d-44e2-9325-8f9bcc41c43b" />
 
